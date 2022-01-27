@@ -4,7 +4,7 @@
 
 ## Background
 
-The aim of this project is to retrieve tagged art globally and provide a wider scope for nude art outside of a eurocentric lens. The PAS is a work-in-progress. At the moment, this project showcases images from the Cleveland Art Museum (https://clevelandart.org/)
+The aim of this project is to retrieve tagged art globally and provide a wider scope for nude art. The PAS is a work-in-progress. At the moment, this project showcases images from the Cleveland Art Museum (https://clevelandart.org/)
 
 ## Tools Used
 
